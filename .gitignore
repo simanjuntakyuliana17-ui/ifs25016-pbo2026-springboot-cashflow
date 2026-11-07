@@ -1,0 +1,9 @@
+.env
+!.env.example
+target/
+.idea/
+.vscode/
+node_modules/
+src/main/frontend/generated/
+src/main/bundles/
+vite.generated.ts
